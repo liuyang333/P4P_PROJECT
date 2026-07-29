@@ -76,15 +76,14 @@ td.talk:hover{background:#f4f9ff}
 .legend{display:flex;gap:12px;flex-wrap:wrap;font-size:12px;color:var(--muted);margin-bottom:14px;align-items:center}
 .legend span{display:inline-flex;align-items:center;gap:5px}
 .dot{width:11px;height:11px;border-radius:3px;display:inline-block}
-.infobar{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:18px 22px;box-shadow:var(--shadow);margin-bottom:20px;display:flex;gap:20px;flex-wrap:wrap;align-items:stretch;position:relative;overflow:hidden}
-.infobar::before{content:"";position:absolute;left:0;top:0;bottom:0;width:5px;background:linear-gradient(var(--s1),var(--s6))}
-.infobar .lead{flex:1;min-width:230px;padding-left:6px}
-.infobar .dept{font-size:11.5px;color:var(--muted);font-weight:600;letter-spacing:.2px}
-.infobar .evt{font-size:18px;font-weight:750;color:var(--navy);margin:3px 0}
-.infobar .when{font-size:14px;color:var(--ink);font-weight:600}
-.infobar .ib{min-width:190px;padding-left:20px;border-left:1px solid var(--line);display:flex;flex-direction:column;justify-content:center}
-.infobar .ib .k{font-size:10.5px;text-transform:uppercase;letter-spacing:.6px;color:var(--brand2);font-weight:700;margin-bottom:3px}
-.infobar .ib .v{font-size:13px;color:var(--ink)}
+.infobar{margin-top:20px;padding-top:18px;border-top:1px solid rgba(255,255,255,.14);display:flex;gap:22px;flex-wrap:wrap;align-items:stretch;color:#fff}
+.infobar .lead{flex:1;min-width:240px}
+.infobar .dept{font-size:11.5px;color:rgba(255,255,255,.7);font-weight:600;letter-spacing:.2px}
+.infobar .evt{font-size:19px;font-weight:750;color:#fff;margin:3px 0}
+.infobar .when{font-size:14px;color:rgba(255,255,255,.92);font-weight:600}
+.infobar .ib{min-width:200px;padding-left:22px;border-left:1px solid rgba(255,255,255,.16);display:flex;flex-direction:column;justify-content:center}
+.infobar .ib .k{font-size:10.5px;text-transform:uppercase;letter-spacing:.6px;color:#8fb4ff;font-weight:700;margin-bottom:3px}
+.infobar .ib .v{font-size:13px;color:rgba(255,255,255,.92)}
 footer{text-align:center;color:var(--muted);font-size:12px;padding:24px}
 @media(max-width:600px){header h1{font-size:20px}.card .row b{min-width:70px}}
 </style>
@@ -106,6 +105,7 @@ footer{text-align:center;color:var(--muted);font-size:12px;padding:24px}
         <div class="sub" id="hsub">Part IV Research Project Conference · 6 parallel streams</div>
       </div>
     </div>
+    <div class="infobar" id="infobar"></div>
     <div class="tabs">
       <button class="tab active" data-view="list" onclick="switchView('list')">🔍 Search &amp; Browse</button>
       <button class="tab" data-view="grid" onclick="switchView('grid')">🗓 Timetable Grid</button>
@@ -113,7 +113,6 @@ footer{text-align:center;color:var(--muted);font-size:12px;padding:24px}
   </div>
 </header>
 <main class="wrap">
-  <div class="infobar" id="infobar"></div>
   <!-- LIST VIEW -->
   <section id="view-list">
     <div class="toolbar">
