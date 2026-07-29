@@ -1,0 +1,2426 @@
+{
+ "title": "P4P Conference 2026",
+ "rooms": [
+  "401-401",
+  "401-439",
+  "405-460",
+  "405-470",
+  "405-422",
+  "405-430"
+ ],
+ "events": [
+  {
+   "time": "08:15",
+   "label": "Registration (Engineering Atrium level 4)"
+  },
+  {
+   "time": "08:50",
+   "label": "Welcome (405-460)"
+  },
+  {
+   "time": "10:32",
+   "label": "morning tea (Engineering Atrium level 4)"
+  },
+  {
+   "time": "12:24",
+   "label": "lunch and photo (Engineering Atrium level 4)"
+  },
+  {
+   "time": "14:51",
+   "label": "closing/afternoon tea (Engineering Atrium level 4)"
+  }
+ ],
+ "presentations": [
+  {
+   "time": "09:00",
+   "room": "401-401",
+   "stream": "Stream 1: Mechanics of Materials and Manufacturing Processes",
+   "streamNum": 1,
+   "chair": "Tingting Jin",
+   "session": "Session 1 (Morning)",
+   "title": "Mechanics of Materials postgraduate opportunities",
+   "students": [],
+   "supervisor": "",
+   "cosupervisor": "",
+   "assessor": "",
+   "flags": "",
+   "type": "info"
+  },
+  {
+   "time": "09:00",
+   "room": "401-439",
+   "stream": "Stream 2: Aero-Fluid-Hydrodynamics and Thermodynamics",
+   "streamNum": 2,
+   "chair": "Zixi",
+   "session": "Session 1 (Morning)",
+   "title": "Aerodynamics and wind engineering  postgraduate opportunities",
+   "students": [],
+   "supervisor": "",
+   "cosupervisor": "",
+   "assessor": "",
+   "flags": "",
+   "type": "info"
+  },
+  {
+   "time": "09:00",
+   "room": "405-460",
+   "stream": "Stream 3: Biomechatronics & Robotics",
+   "streamNum": 3,
+   "chair": "Yueming",
+   "session": "Session 1 (Morning)",
+   "title": "Robotics and Biomechatronics postgraduate opportunities",
+   "students": [],
+   "supervisor": "",
+   "cosupervisor": "",
+   "assessor": "",
+   "flags": "",
+   "type": "info"
+  },
+  {
+   "time": "09:00",
+   "room": "405-470",
+   "stream": "Stream 4: Industry 4.0 & Design/Systems Engineering",
+   "streamNum": 4,
+   "chair": "Yinwang",
+   "session": "Session 1 (Morning)",
+   "title": "Smart manufacturing and industrial automation postgraduate opportunities",
+   "students": [],
+   "supervisor": "",
+   "cosupervisor": "",
+   "assessor": "",
+   "flags": "",
+   "type": "info"
+  },
+  {
+   "time": "09:00",
+   "room": "405-422",
+   "stream": "Stream 5: Dynamics and Control & Space Systems",
+   "streamNum": 5,
+   "chair": "Yangyang",
+   "session": "Session 1 (Morning)",
+   "title": "Dynamics and control postgraduate opportunities",
+   "students": [],
+   "supervisor": "",
+   "cosupervisor": "",
+   "assessor": "",
+   "flags": "",
+   "type": "info"
+  },
+  {
+   "time": "09:00",
+   "room": "405-430",
+   "stream": "Stream 6: Acoustics",
+   "streamNum": 6,
+   "chair": "Epri",
+   "session": "Session 1 (Morning)",
+   "title": "Acoustics postgraduate opportunities",
+   "students": [],
+   "supervisor": "",
+   "cosupervisor": "",
+   "assessor": "",
+   "flags": "",
+   "type": "info"
+  },
+  {
+   "time": "09:10",
+   "room": "401-439",
+   "stream": "Stream 2: Aero-Fluid-Hydrodynamics and Thermodynamics",
+   "streamNum": 2,
+   "chair": "Zixi",
+   "session": "Session 1 (Morning)",
+   "title": "Thermofluids postgraduate opportunities",
+   "students": [],
+   "supervisor": "",
+   "cosupervisor": "",
+   "assessor": "",
+   "flags": "",
+   "type": "info"
+  },
+  {
+   "time": "09:10",
+   "room": "405-422",
+   "stream": "Stream 5: Dynamics and Control & Space Systems",
+   "streamNum": 5,
+   "chair": "Yangyang",
+   "session": "Session 1 (Morning)",
+   "title": "Auckland Space Institute postgraduate opportunities",
+   "students": [],
+   "supervisor": "",
+   "cosupervisor": "",
+   "assessor": "",
+   "flags": "",
+   "type": "info"
+  },
+  {
+   "time": "09:10",
+   "room": "405-430",
+   "stream": "Stream 6: Acoustics",
+   "streamNum": 6,
+   "chair": "Epri",
+   "session": "Session 1 (Morning)",
+   "title": "Drone technology postgraduate opportunities",
+   "students": [],
+   "supervisor": "",
+   "cosupervisor": "",
+   "assessor": "",
+   "flags": "",
+   "type": "info"
+  },
+  {
+   "time": "09:20",
+   "room": "401-401",
+   "stream": "Stream 1: Mechanics of Materials and Manufacturing Processes",
+   "streamNum": 1,
+   "chair": "Tingting Jin",
+   "session": "Session 1 (Morning)",
+   "title": "Engineering Sustainable Solutions: Bio-Based Structural Thermal Breaks for Low-Carbon Construction",
+   "students": [
+    "Imogen Wood",
+    "Zara Zoll"
+   ],
+   "supervisor": "Johan Verbeek",
+   "cosupervisor": "Tom Allen",
+   "assessor": "Nam Kim",
+   "flags": "",
+   "type": "talk"
+  },
+  {
+   "time": "09:20",
+   "room": "405-460",
+   "stream": "Stream 3: Biomechatronics & Robotics",
+   "streamNum": 3,
+   "chair": "Yueming",
+   "session": "Session 1 (Morning)",
+   "title": "Walking Gait Monitoring and Analysis using Gyroscope",
+   "students": [
+    "Johnny Curtis",
+    "Parth Visnagara"
+   ],
+   "supervisor": "Kean Aw",
+   "cosupervisor": "",
+   "assessor": "Jonathan Stringer",
+   "flags": "",
+   "type": "talk"
+  },
+  {
+   "time": "09:20",
+   "room": "405-470",
+   "stream": "Stream 4: Industry 4.0 & Design/Systems Engineering",
+   "streamNum": 4,
+   "chair": "Yinwang",
+   "session": "Session 1 (Morning)",
+   "title": "3D printed bicycle generator",
+   "students": [
+    "Nicholas Hutt",
+    "Luka Jeremic"
+   ],
+   "supervisor": "Olaf Diegel",
+   "cosupervisor": "",
+   "assessor": "Simon Bickerton",
+   "flags": "",
+   "type": "talk"
+  },
+  {
+   "time": "09:20",
+   "room": "405-422",
+   "stream": "Stream 5: Dynamics and Control & Space Systems",
+   "streamNum": 5,
+   "chair": "Yangyang",
+   "session": "Session 1 (Morning)",
+   "title": "Water Motion Energy Harvesters: Venturing in to Venturi effects",
+   "students": [
+    "Tom Sinclair",
+    "Helen Wen"
+   ],
+   "supervisor": "Andrew Hall",
+   "cosupervisor": "Vladislav Sorokin",
+   "assessor": "Daniel De Mel",
+   "flags": "",
+   "type": "talk"
+  },
+  {
+   "time": "09:20",
+   "room": "405-430",
+   "stream": "Stream 6: Acoustics",
+   "streamNum": 6,
+   "chair": "Epri",
+   "session": "Session 1 (Morning)",
+   "title": "Development of a Virtual Acoustics System and Its Perceptual Reproducibility in Instrumental Performance",
+   "students": [
+    "Matte Hol",
+    "Pomare Kaire"
+   ],
+   "supervisor": "Yusuke Hioka",
+   "cosupervisor": "",
+   "assessor": "Justine Hui",
+   "flags": "",
+   "type": "talk"
+  },
+  {
+   "time": "09:32",
+   "room": "401-401",
+   "stream": "Stream 1: Mechanics of Materials and Manufacturing Processes",
+   "streamNum": 1,
+   "chair": "Tingting Jin",
+   "session": "Session 1 (Morning)",
+   "title": "Production of waste polymer-sand composite panels",
+   "students": [
+    "Kieran Keshvara",
+    "Christen Schonberger"
+   ],
+   "supervisor": "Krishnan Jayaraman",
+   "cosupervisor": "",
+   "assessor": "Jesna Ashraf",
+   "flags": "",
+   "type": "talk"
+  },
+  {
+   "time": "09:32",
+   "room": "401-439",
+   "stream": "Stream 2: Aero-Fluid-Hydrodynamics and Thermodynamics",
+   "streamNum": 2,
+   "chair": "Zixi",
+   "session": "Session 1 (Morning)",
+   "title": "TAOM (Te Ahi O Maui) Geothermal power plant vaporiser mineral scaling investigation",
+   "students": [
+    "Sebastian Mckenzie",
+    "Tailah Thodey-Hunia"
+   ],
+   "supervisor": "Sadiq Zarrouk",
+   "cosupervisor": "",
+   "assessor": "Michael MacDonald",
+   "flags": "",
+   "type": "talk"
+  },
+  {
+   "time": "09:32",
+   "room": "405-460",
+   "stream": "Stream 3: Biomechatronics & Robotics",
+   "streamNum": 3,
+   "chair": "Yueming",
+   "session": "Session 1 (Morning)",
+   "title": "*[CDP-ESBE] Machine Learning and Artificial Intelligence applied to Motorsport Data Engineering",
+   "students": [
+    "Finn Gordon"
+   ],
+   "supervisor": "Daniel De Mel",
+   "cosupervisor": "",
+   "assessor": "Jonathan Stringer",
+   "flags": "* [CDP-ESBE]",
+   "type": "talk"
+  },
+  {
+   "time": "09:32",
+   "room": "405-470",
+   "stream": "Stream 4: Industry 4.0 & Design/Systems Engineering",
+   "streamNum": 4,
+   "chair": "Yinwang",
+   "session": "Session 1 (Morning)",
+   "title": "Exploring design improvements across multiple domains for a small‑scale vertical‑axis wind turbine",
+   "students": [
+    "Max Davies",
+    "Jake Stafford"
+   ],
+   "supervisor": "Stephen Kavermann",
+   "cosupervisor": "",
+   "assessor": "Simon Bickerton",
+   "flags": "",
+   "type": "talk"
+  },
+  {
+   "time": "09:32",
+   "room": "405-422",
+   "stream": "Stream 5: Dynamics and Control & Space Systems",
+   "streamNum": 5,
+   "chair": "Yangyang",
+   "session": "Session 1 (Morning)",
+   "title": "Vibration monitoring for the protection of museum artifacts",
+   "students": [
+    "Braeden Fisher",
+    "Gina Van Niekerk"
+   ],
+   "supervisor": "Mark Jeunnette",
+   "cosupervisor": "",
+   "assessor": "Olaf Diegel",
+   "flags": "",
+   "type": "talk"
+  },
+  {
+   "time": "09:32",
+   "room": "405-430",
+   "stream": "Stream 6: Acoustics",
+   "streamNum": 6,
+   "chair": "Epri",
+   "session": "Session 1 (Morning)",
+   "title": "The Space Between Us: Real‑Time Sonification of Interpersonal Distance",
+   "students": [
+    "Wilhelmina Li",
+    "Katrina Xing"
+   ],
+   "supervisor": "Justine Hui",
+   "cosupervisor": "",
+   "assessor": "Andrew Hall",
+   "flags": "",
+   "type": "talk"
+  },
+  {
+   "time": "09:44",
+   "room": "401-401",
+   "stream": "Stream 1: Mechanics of Materials and Manufacturing Processes",
+   "streamNum": 1,
+   "chair": "Tingting Jin",
+   "session": "Session 1 (Morning)",
+   "title": "Processing of basalt fabric-reinforced biopolymer composite materials",
+   "students": [
+    "Nicholas Huang",
+    "Dalbir Singh"
+   ],
+   "supervisor": "Krishnan Jayaraman",
+   "cosupervisor": "Nam Kyeun Kim",
+   "assessor": "Jesna Ashraf",
+   "flags": "",
+   "type": "talk"
+  },
+  {
+   "time": "09:44",
+   "room": "401-439",
+   "stream": "Stream 2: Aero-Fluid-Hydrodynamics and Thermodynamics",
+   "streamNum": 2,
+   "chair": "Zixi",
+   "session": "Session 1 (Morning)",
+   "title": "Thermal management of wirelessly charged hypercars",
+   "students": [
+    "Trey Pata",
+    "Dean Zhao"
+   ],
+   "supervisor": "Connor Pearson",
+   "cosupervisor": "Tom Allen",
+   "assessor": "Michael MacDonald",
+   "flags": "",
+   "type": "talk"
+  },
+  {
+   "time": "09:44",
+   "room": "405-460",
+   "stream": "Stream 3: Biomechatronics & Robotics",
+   "streamNum": 3,
+   "chair": "Yueming",
+   "session": "Session 1 (Morning)",
+   "title": "Electret-Based Angle Sensor for Robotic Joints with Self-Powered Sensing Capability",
+   "students": [
+    "Xuan Khang Nguyen",
+    "You Ran Wang"
+   ],
+   "supervisor": "Lihua Tang",
+   "cosupervisor": "",
+   "assessor": "Kean Aw",
+   "flags": "",
+   "type": "talk"
+  },
+  {
+   "time": "09:44",
+   "room": "405-470",
+   "stream": "Stream 4: Industry 4.0 & Design/Systems Engineering",
+   "streamNum": 4,
+   "chair": "Yinwang",
+   "session": "Session 1 (Morning)",
+   "title": "How do 3D printing parameters affect surface wettability?",
+   "students": [
+    "Mohammed Abudaheer",
+    "Kiara Oza"
+   ],
+   "supervisor": "Jonathan Stringer",
+   "cosupervisor": "",
+   "assessor": "Olaf Diegel",
+   "flags": "",
+   "type": "talk"
+  },
+  {
+   "time": "09:44",
+   "room": "405-422",
+   "stream": "Stream 5: Dynamics and Control & Space Systems",
+   "streamNum": 5,
+   "chair": "Yangyang",
+   "session": "Session 1 (Morning)",
+   "title": "Are rotating diffusors better than static?",
+   "students": [
+    "Isabella Chen",
+    "Phoebe Williamson"
+   ],
+   "supervisor": "George Dodd",
+   "cosupervisor": "Andrew Hall",
+   "assessor": "Vladislav Sorokin",
+   "flags": "",
+   "type": "talk"
+  },
+  {
+   "time": "09:44",
+   "room": "405-430",
+   "stream": "Stream 6: Acoustics",
+   "streamNum": 6,
+   "chair": "Epri",
+   "session": "Session 1 (Morning)",
+   "title": "How do we speak in noisy spaces?  developing virtual acoustics simulator for studying speaker behaviour in noise",
+   "students": [
+    "Wayne Liang",
+    "Abhijot Malhi"
+   ],
+   "supervisor": "Yusuke Hioka",
+   "cosupervisor": "",
+   "assessor": "Justine Hui",
+   "flags": "",
+   "type": "talk"
+  },
+  {
+   "time": "09:56",
+   "room": "401-401",
+   "stream": "Stream 1: Mechanics of Materials and Manufacturing Processes",
+   "streamNum": 1,
+   "chair": "Tingting Jin",
+   "session": "Session 1 (Morning)",
+   "title": "Investigation of Low-Reflectivity Dragsail Materials, and stowage and deployment processes",
+   "students": [
+    "Matthew Prance",
+    "Tyler Sangster"
+   ],
+   "supervisor": "Benjamin Taylor",
+   "cosupervisor": "",
+   "assessor": "Guglielmo Aglietti",
+   "flags": "",
+   "type": "talk"
+  },
+  {
+   "time": "09:56",
+   "room": "401-439",
+   "stream": "Stream 2: Aero-Fluid-Hydrodynamics and Thermodynamics",
+   "streamNum": 2,
+   "chair": "Zixi",
+   "session": "Session 1 (Morning)",
+   "title": "Aerofoil optimisation for low Reynolds number aerodynamics",
+   "students": [
+    "Chris Benzie",
+    "Campbell Stewart"
+   ],
+   "supervisor": "Michael MacDonald",
+   "cosupervisor": "",
+   "assessor": "Connor Pearson",
+   "flags": "",
+   "type": "talk"
+  },
+  {
+   "time": "09:56",
+   "room": "405-460",
+   "stream": "Stream 3: Biomechatronics & Robotics",
+   "streamNum": 3,
+   "chair": "Yueming",
+   "session": "Session 1 (Morning)",
+   "title": "Low-cost onboard ride height sensing for ground vehicles",
+   "students": [
+    "Raymond Nightingale",
+    "Ash Tyler"
+   ],
+   "supervisor": "Daniel De Mel",
+   "cosupervisor": "",
+   "assessor": "Lihua Tang",
+   "flags": "",
+   "type": "talk"
+  },
+  {
+   "time": "09:56",
+   "room": "405-470",
+   "stream": "Stream 4: Industry 4.0 & Design/Systems Engineering",
+   "streamNum": 4,
+   "chair": "Yinwang",
+   "session": "Session 1 (Morning)",
+   "title": "Autonomous NPK sampling and mapping of a pasture using a drone",
+   "students": [
+    "Cael Dines",
+    "Dayton Henry"
+   ],
+   "supervisor": "Mark Jeunnette",
+   "cosupervisor": "",
+   "assessor": "Nicholas Kay",
+   "flags": "",
+   "type": "talk"
+  },
+  {
+   "time": "09:56",
+   "room": "405-422",
+   "stream": "Stream 5: Dynamics and Control & Space Systems",
+   "streamNum": 5,
+   "chair": "Yangyang",
+   "session": "Session 1 (Morning)",
+   "title": "Surface Acoustic Waves (SAW) for Controlling Thawing of Frozen Micro-structures",
+   "students": [
+    "Robbie Couper",
+    "Daniel Stretton"
+   ],
+   "supervisor": "George Dodd",
+   "cosupervisor": "Andrew Hall",
+   "assessor": "Vladislav Sorokin",
+   "flags": "",
+   "type": "talk"
+  },
+  {
+   "time": "09:56",
+   "room": "405-430",
+   "stream": "Stream 6: Acoustics",
+   "streamNum": 6,
+   "chair": "Epri",
+   "session": "Session 1 (Morning)",
+   "title": "Intelligent restoration of early Māori and Pacific sound archives through agentic AI and signal processing",
+   "students": [
+    "Charlie Brunton",
+    "Daniel Ryu"
+   ],
+   "supervisor": "Justine Hui",
+   "cosupervisor": "",
+   "assessor": "Yusuke Hioka",
+   "flags": "",
+   "type": "talk"
+  },
+  {
+   "time": "10:08",
+   "room": "401-401",
+   "stream": "Stream 1: Mechanics of Materials and Manufacturing Processes",
+   "streamNum": 1,
+   "chair": "Tingting Jin",
+   "session": "Session 1 (Morning)",
+   "title": "Stretching the Limits: Optimising Drawing Parameters for High-Strength Microfibrillar Polymer Blends",
+   "students": [
+    "Jeno Jeon",
+    "Sandeep Sandhu"
+   ],
+   "supervisor": "Nam Kyeun Kim",
+   "cosupervisor": "",
+   "assessor": "Krishnan Jayaraman",
+   "flags": "",
+   "type": "talk"
+  },
+  {
+   "time": "10:08",
+   "room": "401-439",
+   "stream": "Stream 2: Aero-Fluid-Hydrodynamics and Thermodynamics",
+   "streamNum": 2,
+   "chair": "Zixi",
+   "session": "Session 1 (Morning)",
+   "title": "Aerodynamic Interaction of Yacht Sails",
+   "students": [
+    "Hugo Mcmullen",
+    "Callum Toft"
+   ],
+   "supervisor": "Stuart Norris",
+   "cosupervisor": "",
+   "assessor": "Connor Pearson",
+   "flags": "",
+   "type": "talk"
+  },
+  {
+   "time": "10:08",
+   "room": "405-460",
+   "stream": "Stream 3: Biomechatronics & Robotics",
+   "streamNum": 3,
+   "chair": "Yueming",
+   "session": "Session 1 (Morning)",
+   "title": "Low-cost track surface friction measurement for FSAE",
+   "students": [
+    "Jacob Daley",
+    "Karl Macpherson"
+   ],
+   "supervisor": "Daniel De Mel",
+   "cosupervisor": "",
+   "assessor": "Lihua Tang",
+   "flags": "",
+   "type": "talk"
+  },
+  {
+   "time": "10:08",
+   "room": "405-470",
+   "stream": "Stream 4: Industry 4.0 & Design/Systems Engineering",
+   "streamNum": 4,
+   "chair": "Yinwang",
+   "session": "Session 1 (Morning)",
+   "title": "Small-plot crop health monitoring using satellite and aerial remote sensing data in developing countries",
+   "students": [
+    "Michael Alexoiu",
+    "Alexei Pepers"
+   ],
+   "supervisor": "Mark Jeunnette",
+   "cosupervisor": "",
+   "assessor": "Olaf Diegel",
+   "flags": "",
+   "type": "talk"
+  },
+  {
+   "time": "10:08",
+   "room": "405-422",
+   "stream": "Stream 5: Dynamics and Control & Space Systems",
+   "streamNum": 5,
+   "chair": "Yangyang",
+   "session": "Session 1 (Morning)",
+   "title": "CubeSat Payload Interface Module (PIM) Design and Verification",
+   "students": [
+    "Kala Payinda",
+    "Louis Young"
+   ],
+   "supervisor": "Benjamin Taylor",
+   "cosupervisor": "",
+   "assessor": "Guglielmo Aglietti",
+   "flags": "",
+   "type": "talk"
+  },
+  {
+   "time": "10:08",
+   "room": "405-430",
+   "stream": "Stream 6: Acoustics",
+   "streamNum": 6,
+   "chair": "Epri",
+   "session": "Session 1 (Morning)",
+   "title": "Rapid Voice Adaptation for Multilingual Storytelling",
+   "students": [
+    "David Wu",
+    "Jay Yuan"
+   ],
+   "supervisor": "Justine Hui",
+   "cosupervisor": "",
+   "assessor": "Arcot Somashekar",
+   "flags": "",
+   "type": "talk"
+  },
+  {
+   "time": "10:20",
+   "room": "401-401",
+   "stream": "Stream 1: Mechanics of Materials and Manufacturing Processes",
+   "streamNum": 1,
+   "chair": "Tingting Jin",
+   "session": "Session 1 (Morning)",
+   "title": "Small Fibrils, Big Impact: Transforming Waste Thermoplastics into Microfibrillar Composites using Plasma Treatment Technique",
+   "students": [
+    "Hayden Leung",
+    "Zane Williams"
+   ],
+   "supervisor": "Nam Kyeun Kim",
+   "cosupervisor": "",
+   "assessor": "Arcot Somashekar",
+   "flags": "",
+   "type": "talk"
+  },
+  {
+   "time": "10:20",
+   "room": "401-439",
+   "stream": "Stream 2: Aero-Fluid-Hydrodynamics and Thermodynamics",
+   "streamNum": 2,
+   "chair": "Zixi",
+   "session": "Session 1 (Morning)",
+   "title": "CFD study of atmospheric pollution dispersal in an urban environment",
+   "students": [
+    "James Austin",
+    "Moutaz Khair"
+   ],
+   "supervisor": "Michael MacDonald",
+   "cosupervisor": "",
+   "assessor": "Stuart Norris",
+   "flags": "",
+   "type": "talk"
+  },
+  {
+   "time": "10:20",
+   "room": "405-460",
+   "stream": "Stream 3: Biomechatronics & Robotics",
+   "streamNum": 3,
+   "chair": "Yueming",
+   "session": "Session 1 (Morning)",
+   "title": "Investigation of Drivability and Driver Interaction for Torque Vectoring Vehicles",
+   "students": [
+    "Travis Hutchison",
+    "Jack Millar"
+   ],
+   "supervisor": "Daniel De Mel",
+   "cosupervisor": "",
+   "assessor": "Lihua Tang",
+   "flags": "",
+   "type": "talk"
+  },
+  {
+   "time": "10:20",
+   "room": "405-470",
+   "stream": "Stream 4: Industry 4.0 & Design/Systems Engineering",
+   "streamNum": 4,
+   "chair": "Yinwang",
+   "session": "Session 1 (Morning)",
+   "title": "Production line automatic part sorter system (Chocolate delivery system)",
+   "students": [
+    "Rohan Kanagasundaram",
+    "Eesha Mahimkar"
+   ],
+   "supervisor": "Olaf Diegel",
+   "cosupervisor": "",
+   "assessor": "Stephen Kavermann",
+   "flags": "",
+   "type": "talk"
+  },
+  {
+   "time": "10:20",
+   "room": "405-422",
+   "stream": "Stream 5: Dynamics and Control & Space Systems",
+   "streamNum": 5,
+   "chair": "Yangyang",
+   "session": "Session 1 (Morning)",
+   "title": "Hold Down and Release Mechanism",
+   "students": [
+    "Jake Schofield",
+    "Xander Snyman"
+   ],
+   "supervisor": "Guglielmo Aglietti",
+   "cosupervisor": "",
+   "assessor": "Roberto Armellin",
+   "flags": "",
+   "type": "talk"
+  },
+  {
+   "time": "10:20",
+   "room": "405-430",
+   "stream": "Stream 6: Acoustics",
+   "streamNum": 6,
+   "chair": "Epri",
+   "session": "Session 1 (Morning)",
+   "title": "Wind musical instrument microphone array for better clarity and balance",
+   "students": [
+    "Michaela Abbenes",
+    "Lucas Wongso"
+   ],
+   "supervisor": "Andrew Hall",
+   "cosupervisor": "George Dodd",
+   "assessor": "Yusuke Hioka",
+   "flags": "",
+   "type": "talk"
+  },
+  {
+   "time": "11:00",
+   "room": "401-401",
+   "stream": "Stream 1: Mechanics of Materials and Manufacturing Processes Chen",
+   "streamNum": 1,
+   "chair": "",
+   "session": "Session 2 (Late Morning)",
+   "title": "Manufacturing of rotomoulded products containing reinforcement",
+   "students": [
+    "Gabriel Chapman",
+    "Hayden Cheng"
+   ],
+   "supervisor": "Krishnan Jayaraman",
+   "cosupervisor": "",
+   "assessor": "Nicola Shepherd",
+   "flags": "",
+   "type": "talk"
+  },
+  {
+   "time": "11:00",
+   "room": "401-439",
+   "stream": "Stream 2: Aero-Fluid-Hydrodynamics and Thermodynamics",
+   "streamNum": 2,
+   "chair": "Zixi",
+   "session": "Session 2 (Late Morning)",
+   "title": "Validity of RANS to model turbulent drag reduction using shark skin inspired riblets for internal pipe flow in a manufacturing context",
+   "students": [
+    "Oscar Guo",
+    "Richard Lin"
+   ],
+   "supervisor": "Michael MacDonald",
+   "cosupervisor": "",
+   "assessor": "Rajnish Sharma",
+   "flags": "",
+   "type": "talk"
+  },
+  {
+   "time": "11:00",
+   "room": "405-460",
+   "stream": "Stream 3: Biomechatronics & Robotics",
+   "streamNum": 3,
+   "chair": "Masa",
+   "session": "Session 2 (Late Morning)",
+   "title": "* In-vitro motion tracking of an intragastric ballon - sensing and soft robotics",
+   "students": [
+    "Bryan Kim",
+    "Hui Wu"
+   ],
+   "supervisor": "Peter Xu",
+   "cosupervisor": "",
+   "assessor": "Jonathan Stringer",
+   "flags": "*",
+   "type": "talk"
+  },
+  {
+   "time": "11:00",
+   "room": "405-470",
+   "stream": "Stream 4: Industry 4.0 & Design/Systems Engineering",
+   "streamNum": 4,
+   "chair": "Jingming",
+   "session": "Session 2 (Late Morning)",
+   "title": "Adaptive Chassis Stiffness for Mobile Robot Control",
+   "students": [
+    "Jonty Clark",
+    "Siva Sankaran Sriram"
+   ],
+   "supervisor": "Daniel De Mel",
+   "cosupervisor": "Tom Allen",
+   "assessor": "Stephen Kavermann",
+   "flags": "",
+   "type": "talk"
+  },
+  {
+   "time": "11:00",
+   "room": "405-422",
+   "stream": "Stream 5: Dynamics and Control & Space Systems",
+   "streamNum": 5,
+   "chair": "mingming",
+   "session": "Session 2 (Late Morning)",
+   "title": "Steering a Solar Sail: Attitude Simulation, Dynamics, and Control",
+   "students": [
+    "Tristan Barclay",
+    "Conrad Hart"
+   ],
+   "supervisor": "Roberto Armellin",
+   "cosupervisor": "",
+   "assessor": "Guglielmo Aglietti",
+   "flags": "",
+   "type": "talk"
+  },
+  {
+   "time": "11:00",
+   "room": "405-430",
+   "stream": "Stream 6: Acoustics, Mechatronics",
+   "streamNum": 6,
+   "chair": "Tingting Jin",
+   "session": "Session 2 (Late Morning)",
+   "title": "Flaws in Floors? Rethinking Impact Noise Control Using Granular Floor Treatments",
+   "students": [
+    "Leonardo D'Ambros-Smith",
+    "Curtis Maclean"
+   ],
+   "supervisor": "Andrew Hall",
+   "cosupervisor": "George Dodd",
+   "assessor": "Vladislav Sorokin",
+   "flags": "",
+   "type": "talk"
+  },
+  {
+   "time": "11:12",
+   "room": "401-401",
+   "stream": "Stream 1: Mechanics of Materials and Manufacturing Processes Chen",
+   "streamNum": 1,
+   "chair": "",
+   "session": "Session 2 (Late Morning)",
+   "title": "Monitoring development of fatigue damage in composite structures",
+   "students": [
+    "Uzayr Ali",
+    "Tadiwa Masiyakurima"
+   ],
+   "supervisor": "Nicola Shepherd",
+   "cosupervisor": "Simon Bickerton",
+   "assessor": "Tom Allen",
+   "flags": "",
+   "type": "talk"
+  },
+  {
+   "time": "11:12",
+   "room": "401-439",
+   "stream": "Stream 2: Aero-Fluid-Hydrodynamics and Thermodynamics",
+   "streamNum": 2,
+   "chair": "Zixi",
+   "session": "Session 2 (Late Morning)",
+   "title": "CFD study of laminar radial jet mixing and recirculation in a closed tank",
+   "students": [
+    "Ishraq Bhuiyan",
+    "Luke Senior"
+   ],
+   "supervisor": "Priyanka Dhopade",
+   "cosupervisor": "",
+   "assessor": "Michael MacDonald",
+   "flags": "",
+   "type": "talk"
+  },
+  {
+   "time": "11:12",
+   "room": "405-460",
+   "stream": "Stream 3: Biomechatronics & Robotics",
+   "streamNum": 3,
+   "chair": "Masa",
+   "session": "Session 2 (Late Morning)",
+   "title": "Optimisation of HYNDS Pokeno's Radial Press Concrete Pipe Production Line",
+   "students": [
+    "Connor Browne",
+    "Milan Kennedy"
+   ],
+   "supervisor": "Peter Xu",
+   "cosupervisor": "",
+   "assessor": "Jonathan Stringer",
+   "flags": "",
+   "type": "talk"
+  },
+  {
+   "time": "11:12",
+   "room": "405-470",
+   "stream": "Stream 4: Industry 4.0 & Design/Systems Engineering",
+   "streamNum": 4,
+   "chair": "Jingming",
+   "session": "Session 2 (Late Morning)",
+   "title": "Welding-based robot DED additive manufacturing system",
+   "students": [
+    "Luke Ryan",
+    "William Steiner"
+   ],
+   "supervisor": "Olaf Diegel",
+   "cosupervisor": "",
+   "assessor": "Stephen Kavermann",
+   "flags": "",
+   "type": "talk"
+  },
+  {
+   "time": "11:12",
+   "room": "405-422",
+   "stream": "Stream 5: Dynamics and Control & Space Systems",
+   "streamNum": 5,
+   "chair": "mingming",
+   "session": "Session 2 (Late Morning)",
+   "title": "To Maneuver or Not? Can a Large Language Model Act as a Spacecraft Operator?",
+   "students": [
+    "Luke Blackburn",
+    "Kyle Mcvey"
+   ],
+   "supervisor": "Roberto Armellin",
+   "cosupervisor": "",
+   "assessor": "Guglielmo Aglietti",
+   "flags": "",
+   "type": "talk"
+  },
+  {
+   "time": "11:12",
+   "room": "405-430",
+   "stream": "Stream 6: Acoustics, Mechatronics",
+   "streamNum": 6,
+   "chair": "Tingting Jin",
+   "session": "Session 2 (Late Morning)",
+   "title": "Real-time transcriber glasses",
+   "students": [
+    "Ben Costello",
+    "Tavish Puri"
+   ],
+   "supervisor": "Justine Hui",
+   "cosupervisor": "",
+   "assessor": "Andrew Hall",
+   "flags": "",
+   "type": "talk"
+  },
+  {
+   "time": "11:24",
+   "room": "401-401",
+   "stream": "Stream 1: Mechanics of Materials and Manufacturing Processes Chen",
+   "streamNum": 1,
+   "chair": "",
+   "session": "Session 2 (Late Morning)",
+   "title": "Thermoplastic composites manufactured from randomly oriented discontinuous tape sections",
+   "students": [
+    "Angela Kwan",
+    "Matthew Loh"
+   ],
+   "supervisor": "Nicola Shepherd",
+   "cosupervisor": "Simon Bickerton",
+   "assessor": "Johan Verbeek",
+   "flags": "",
+   "type": "talk"
+  },
+  {
+   "time": "11:24",
+   "room": "401-439",
+   "stream": "Stream 2: Aero-Fluid-Hydrodynamics and Thermodynamics",
+   "streamNum": 2,
+   "chair": "Zixi",
+   "session": "Session 2 (Late Morning)",
+   "title": "Wind Pressure Loading on High Rise Buildings",
+   "students": [
+    "David de Vaal",
+    "Jean Du Plessis"
+   ],
+   "supervisor": "Stuart Norris",
+   "cosupervisor": "",
+   "assessor": "Rajnish Sharma",
+   "flags": "",
+   "type": "talk"
+  },
+  {
+   "time": "11:24",
+   "room": "405-460",
+   "stream": "Stream 3: Biomechatronics & Robotics",
+   "streamNum": 3,
+   "chair": "Masa",
+   "session": "Session 2 (Late Morning)",
+   "title": "Autonomous docking and formation of a swan robotic motorway barriers",
+   "students": [
+    "Kaelin Graf-Ogilvie",
+    "Adam Wright"
+   ],
+   "supervisor": "Peter Xu",
+   "cosupervisor": "",
+   "assessor": "Jaspreet Dhupia",
+   "flags": "",
+   "type": "talk"
+  },
+  {
+   "time": "11:24",
+   "room": "405-470",
+   "stream": "Stream 4: Industry 4.0 & Design/Systems Engineering",
+   "streamNum": 4,
+   "chair": "Jingming",
+   "session": "Session 2 (Late Morning)",
+   "title": "Exploring Intersections of Culture and Design in Engineering Education",
+   "students": [
+    "Terina Rokx-Thompson",
+    "Janhavi Singh"
+   ],
+   "supervisor": "Stephen Kavermann",
+   "cosupervisor": "",
+   "assessor": "Priyanka Dhopade",
+   "flags": "",
+   "type": "talk"
+  },
+  {
+   "time": "11:24",
+   "room": "405-422",
+   "stream": "Stream 5: Dynamics and Control & Space Systems",
+   "streamNum": 5,
+   "chair": "mingming",
+   "session": "Session 2 (Late Morning)",
+   "title": "A Blender-based space environment model",
+   "students": [
+    "Cole Murray",
+    "Prem Kumar Tamilselvam"
+   ],
+   "supervisor": "Roberto Armellin",
+   "cosupervisor": "",
+   "assessor": "Guglielmo Aglietti",
+   "flags": "",
+   "type": "talk"
+  },
+  {
+   "time": "11:24",
+   "room": "405-430",
+   "stream": "Stream 6: Acoustics, Mechatronics",
+   "streamNum": 6,
+   "chair": "Tingting Jin",
+   "session": "Session 2 (Late Morning)",
+   "title": "Development of tactile perception apparatus.",
+   "students": [
+    "Ollie Barton-Hills",
+    "Callum McMillan"
+   ],
+   "supervisor": "Jonathan Stringer",
+   "cosupervisor": "",
+   "assessor": "Justine Hui",
+   "flags": "",
+   "type": "talk"
+  },
+  {
+   "time": "11:36",
+   "room": "401-401",
+   "stream": "Stream 1: Mechanics of Materials and Manufacturing Processes Chen",
+   "streamNum": 1,
+   "chair": "",
+   "session": "Session 2 (Late Morning)",
+   "title": "Mechanical and functional properties of polymer nanocomposites",
+   "students": [
+    "Lucas Quiroz Frankland",
+    "Krisha Raju"
+   ],
+   "supervisor": "Krishnan Jayaraman",
+   "cosupervisor": "",
+   "assessor": "Nicola Shepherd",
+   "flags": "",
+   "type": "talk"
+  },
+  {
+   "time": "11:36",
+   "room": "401-439",
+   "stream": "Stream 2: Aero-Fluid-Hydrodynamics and Thermodynamics",
+   "streamNum": 2,
+   "chair": "Zixi",
+   "session": "Session 2 (Late Morning)",
+   "title": "Innovative Thermal Management Solution for High Power Wireless EV Charging Systems",
+   "students": [
+    "Toby Baird",
+    "Ethan Teoh"
+   ],
+   "supervisor": "Rajnish Sharma",
+   "cosupervisor": "Simon Bickerton",
+   "assessor": "Stuart Norris",
+   "flags": "",
+   "type": "talk"
+  },
+  {
+   "time": "11:36",
+   "room": "405-460",
+   "stream": "Stream 3: Biomechatronics & Robotics",
+   "streamNum": 3,
+   "chair": "Masa",
+   "session": "Session 2 (Late Morning)",
+   "title": "No-code Robot Control - Instructing Robots Using Natural Language",
+   "students": [
+    "Lennon Lu",
+    "Ross Yao"
+   ],
+   "supervisor": "Yuqian Lu",
+   "cosupervisor": "",
+   "assessor": "Karl Stol",
+   "flags": "",
+   "type": "talk"
+  },
+  {
+   "time": "11:36",
+   "room": "405-470",
+   "stream": "Stream 4: Industry 4.0 & Design/Systems Engineering",
+   "streamNum": 4,
+   "chair": "Jingming",
+   "session": "Session 2 (Late Morning)",
+   "title": "Novel methods to manufacture E-textiles",
+   "students": [
+    "Rosheen Bajaj",
+    "Athithi Mathavasivam"
+   ],
+   "supervisor": "Jonathan Stringer",
+   "cosupervisor": "",
+   "assessor": "Justine Hui",
+   "flags": "",
+   "type": "talk"
+  },
+  {
+   "time": "11:36",
+   "room": "405-422",
+   "stream": "Stream 5: Dynamics and Control & Space Systems",
+   "streamNum": 5,
+   "chair": "mingming",
+   "session": "Session 2 (Late Morning)",
+   "title": "Deployment of telescopic barrels for spacecraft optical instruments",
+   "students": [
+    "Serge Carroll",
+    "Justin Chen"
+   ],
+   "supervisor": "Guglielmo Aglietti",
+   "cosupervisor": "",
+   "assessor": "Priyanka Dhopade",
+   "flags": "",
+   "type": "talk"
+  },
+  {
+   "time": "11:36",
+   "room": "405-430",
+   "stream": "Stream 6: Acoustics, Mechatronics",
+   "streamNum": 6,
+   "chair": "Tingting Jin",
+   "session": "Session 2 (Late Morning)",
+   "title": "Fabrication of Soft Flexible Sensor Using Ultrasoic Spray Coating",
+   "students": [
+    "Kaemon Ah Kuoi-Simich",
+    "Sumner Hancock"
+   ],
+   "supervisor": "Kean Aw",
+   "cosupervisor": "",
+   "assessor": "Jaspreet Dhupia",
+   "flags": "",
+   "type": "talk"
+  },
+  {
+   "time": "11:48",
+   "room": "401-401",
+   "stream": "Stream 1: Mechanics of Materials and Manufacturing Processes Chen",
+   "streamNum": 1,
+   "chair": "",
+   "session": "Session 2 (Late Morning)",
+   "title": "Bio-Inspired Surface Geometry and Chemical Stabilizers for Polymer Durability under UV Exposure",
+   "students": [
+    "Martin Lawson",
+    "Daniel Petersen"
+   ],
+   "supervisor": "Johan Verbeek",
+   "cosupervisor": "",
+   "assessor": "Arcot Somashekar",
+   "flags": "",
+   "type": "talk"
+  },
+  {
+   "time": "11:48",
+   "room": "401-439",
+   "stream": "Stream 2: Aero-Fluid-Hydrodynamics and Thermodynamics",
+   "streamNum": 2,
+   "chair": "Zixi",
+   "session": "Session 2 (Late Morning)",
+   "title": "Understanding Riverbed Hydrodynamics: CFD Investigation of Porous Media Effects on Turbulent Flow",
+   "students": [
+    "Mason Crowley",
+    "Benjamin Silipo"
+   ],
+   "supervisor": "Michael MacDonald",
+   "cosupervisor": "",
+   "assessor": "Michael Kingan",
+   "flags": "",
+   "type": "talk"
+  },
+  {
+   "time": "11:48",
+   "room": "405-460",
+   "stream": "Stream 3: Biomechatronics & Robotics",
+   "streamNum": 3,
+   "chair": "Masa",
+   "session": "Session 2 (Late Morning)",
+   "title": "Robotic Planning and Execution for Automated Screw Driving in Cold-Formed Steel Structures",
+   "students": [
+    "Chris Lobo",
+    "Nithu Krishnaa Mahesh Babu"
+   ],
+   "supervisor": "Yuqian Lu",
+   "cosupervisor": "",
+   "assessor": "Karl Stol",
+   "flags": "",
+   "type": "talk"
+  },
+  {
+   "time": "11:48",
+   "room": "405-470",
+   "stream": "Stream 4: Industry 4.0 & Design/Systems Engineering",
+   "streamNum": 4,
+   "chair": "Jingming",
+   "session": "Session 2 (Late Morning)",
+   "title": "Using laser texturing to enhance bond strength for 3D printed microfluidics",
+   "students": [
+    "Daniel Lobo",
+    "Kevin Paul"
+   ],
+   "supervisor": "Jonathan Stringer",
+   "cosupervisor": "",
+   "assessor": "Andrew McDaid",
+   "flags": "",
+   "type": "talk"
+  },
+  {
+   "time": "11:48",
+   "room": "405-422",
+   "stream": "Stream 5: Dynamics and Control & Space Systems",
+   "streamNum": 5,
+   "chair": "mingming",
+   "session": "Session 2 (Late Morning)",
+   "title": "Damping mechanism for passive deployable spacecraft structures",
+   "students": [
+    "Jack Bamford",
+    "Jack Sunthorn"
+   ],
+   "supervisor": "Guglielmo Aglietti",
+   "cosupervisor": "",
+   "assessor": "Priyanka Dhopade",
+   "flags": "",
+   "type": "talk"
+  },
+  {
+   "time": "11:48",
+   "room": "405-430",
+   "stream": "Stream 6: Acoustics, Mechatronics",
+   "streamNum": 6,
+   "chair": "Tingting Jin",
+   "session": "Session 2 (Late Morning)",
+   "title": "ADCP gauging boat rope traveller",
+   "students": [
+    "Cael Anand",
+    "Hiro Austen"
+   ],
+   "supervisor": "Vladislav Sorokin",
+   "cosupervisor": "Andrew Hall",
+   "assessor": "George Dodd",
+   "flags": "",
+   "type": "talk"
+  },
+  {
+   "time": "12:00",
+   "room": "401-401",
+   "stream": "Stream 1: Mechanics of Materials and Manufacturing Processes Chen",
+   "streamNum": 1,
+   "chair": "",
+   "session": "Session 2 (Late Morning)",
+   "title": "Transforming Coffee Waste into Sustainable Polypropylene Composites via Water-Enriched Plasma",
+   "students": [
+    "James Haywood",
+    "Michael Xing"
+   ],
+   "supervisor": "Jesna Ashraf",
+   "cosupervisor": "Johan Verbeek",
+   "assessor": "Krishnan Jayaraman",
+   "flags": "",
+   "type": "talk"
+  },
+  {
+   "time": "12:00",
+   "room": "401-439",
+   "stream": "Stream 2: Aero-Fluid-Hydrodynamics and Thermodynamics",
+   "streamNum": 2,
+   "chair": "Zixi",
+   "session": "Session 2 (Late Morning)",
+   "title": "Multi-Modal Multi-Directional Wind Energy Harvesting",
+   "students": [
+    "Bangzheng Li",
+    "Louie Yu"
+   ],
+   "supervisor": "Lihua Tang",
+   "cosupervisor": "",
+   "assessor": "Michael MacDonald",
+   "flags": "",
+   "type": "talk"
+  },
+  {
+   "time": "12:00",
+   "room": "405-460",
+   "stream": "Stream 3: Biomechatronics & Robotics",
+   "streamNum": 3,
+   "chair": "Masa",
+   "session": "Session 2 (Late Morning)",
+   "title": "A large VLA (vision-language-action) model for industrial robotics - evaluation and deployment",
+   "students": [
+    "Jayden Clark",
+    "Alex Taylor"
+   ],
+   "supervisor": "Peter Xu",
+   "cosupervisor": "Yuqian Lu",
+   "assessor": "Jan Polzer",
+   "flags": "",
+   "type": "talk"
+  },
+  {
+   "time": "12:00",
+   "room": "405-470",
+   "stream": "Stream 4: Industry 4.0 & Design/Systems Engineering",
+   "streamNum": 4,
+   "chair": "Jingming",
+   "session": "Session 2 (Late Morning)",
+   "title": "Predicting the Spread of Wilding Conifer Pines",
+   "students": [
+    "Ryan Andrews",
+    "Lachlan Campbell"
+   ],
+   "supervisor": "Mark Jeunnette",
+   "cosupervisor": "",
+   "assessor": "Priyanka Dhopade",
+   "flags": "",
+   "type": "talk"
+  },
+  {
+   "time": "12:00",
+   "room": "405-422",
+   "stream": "Stream 5: Dynamics and Control & Space Systems",
+   "streamNum": 5,
+   "chair": "mingming",
+   "session": "Session 2 (Late Morning)",
+   "title": "Microvibrations and torque measurement device for RWA",
+   "students": [
+    "Brodie Cruse",
+    "Matthew McGill"
+   ],
+   "supervisor": "Guglielmo Aglietti",
+   "cosupervisor": "",
+   "assessor": "Roberto Armellin",
+   "flags": "",
+   "type": "talk"
+  },
+  {
+   "time": "12:00",
+   "room": "405-430",
+   "stream": "Stream 6: Acoustics, Mechatronics",
+   "streamNum": 6,
+   "chair": "Tingting Jin",
+   "session": "Session 2 (Late Morning)",
+   "title": "Full Swing: Haptic controller for golf training",
+   "students": [
+    "Tomas Barrero Ortiz",
+    "Aadesh Ganugapati"
+   ],
+   "supervisor": "Andrew McDaid",
+   "cosupervisor": "",
+   "assessor": "Jaspreet Dhupia",
+   "flags": "",
+   "type": "talk"
+  },
+  {
+   "time": "12:12",
+   "room": "401-401",
+   "stream": "Stream 1: Mechanics of Materials and Manufacturing Processes Chen",
+   "streamNum": 1,
+   "chair": "",
+   "session": "Session 2 (Late Morning)",
+   "title": "Investigating the manufacture and properties of natural fibre-biopolymer composites using plasma jet treatment to improve interfacial bonding",
+   "students": [
+    "Johan Kritzinger",
+    "Claudia Nieves"
+   ],
+   "supervisor": "Arcot Somashekar",
+   "cosupervisor": "",
+   "assessor": "Nam Kim",
+   "flags": "",
+   "type": "talk"
+  },
+  {
+   "time": "12:12",
+   "room": "401-439",
+   "stream": "Stream 2: Aero-Fluid-Hydrodynamics and Thermodynamics",
+   "streamNum": 2,
+   "chair": "Zixi",
+   "session": "Session 2 (Late Morning)",
+   "title": "An Instrumented Portable Building Platform for Research on Green, Healthy, And Weather Resistant Homes",
+   "students": [
+    "George Ge",
+    "Chi-Ching Yang"
+   ],
+   "supervisor": "Rajnish Sharma",
+   "cosupervisor": "",
+   "assessor": "Michael Kingan",
+   "flags": "",
+   "type": "talk"
+  },
+  {
+   "time": "12:12",
+   "room": "405-460",
+   "stream": "Stream 3: Biomechatronics & Robotics",
+   "streamNum": 3,
+   "chair": "Masa",
+   "session": "Session 2 (Late Morning)",
+   "title": "Applying rehabilitation control methods to office workers through a robotic chair",
+   "students": [
+    "Henry Croft",
+    "Elsa Ly"
+   ],
+   "supervisor": "Andrew McDaid",
+   "cosupervisor": "",
+   "assessor": "Peter Xu",
+   "flags": "",
+   "type": "talk"
+  },
+  {
+   "time": "12:12",
+   "room": "405-470",
+   "stream": "Stream 4: Industry 4.0 & Design/Systems Engineering",
+   "streamNum": 4,
+   "chair": "Jingming",
+   "session": "Session 2 (Late Morning)",
+   "title": "Orchestration for Adaptive Manufacturing Planning based on an Autonomous AI Agent",
+   "students": [
+    "Rishant Kumar",
+    "Jed Ethan Sanchez"
+   ],
+   "supervisor": "Xun Xu",
+   "cosupervisor": "",
+   "assessor": "Yuqian Lu",
+   "flags": "",
+   "type": "talk"
+  },
+  {
+   "time": "12:12",
+   "room": "405-422",
+   "stream": "Stream 5: Dynamics and Control & Space Systems",
+   "streamNum": 5,
+   "chair": "mingming",
+   "session": "Session 2 (Late Morning)",
+   "title": "Development of a Two-Stage CubeSat Deployment Pod for RPO and Deep Space Missions",
+   "students": [
+    "Nitya Das",
+    "Aastha Patel"
+   ],
+   "supervisor": "Guglielmo Aglietti",
+   "cosupervisor": "Benjamin Taylor",
+   "assessor": "Priyanka Dhopade",
+   "flags": "",
+   "type": "talk"
+  },
+  {
+   "time": "12:12",
+   "room": "405-430",
+   "stream": "Stream 6: Acoustics, Mechatronics",
+   "streamNum": 6,
+   "chair": "Tingting Jin",
+   "session": "Session 2 (Late Morning)",
+   "title": "Underwater Robotics Test Bed",
+   "students": [
+    "Euphilia Kaur",
+    "Anthony Kwok"
+   ],
+   "supervisor": "Jaspreet Dhupia",
+   "cosupervisor": "",
+   "assessor": "Kean Aw",
+   "flags": "",
+   "type": "talk"
+  },
+  {
+   "time": "13:15",
+   "room": "401-401",
+   "stream": "Stream 1: Mechanics of Materials and Manufacturing Processes",
+   "streamNum": 1,
+   "chair": "Yangyang",
+   "session": "Session 3 (Afternoon)",
+   "title": "Investigating the manufacture and properties of microfibrillar biopolymer-biopolymer composite tapes",
+   "students": [
+    "Alan Chen",
+    "Ian Xiao"
+   ],
+   "supervisor": "Arcot Somashekar",
+   "cosupervisor": "",
+   "assessor": "Krishnan Jayaraman",
+   "flags": "",
+   "type": "talk"
+  },
+  {
+   "time": "13:15",
+   "room": "401-439",
+   "stream": "Stream 2: Aero-Fluid-Hydrodynamics and Thermodynamics",
+   "streamNum": 2,
+   "chair": "Epri",
+   "session": "Session 3 (Afternoon)",
+   "title": "Aerodynamics of a Green Turtle-Shell-Inspired Building Structure Under Tropical Cyclone Wind Conditions",
+   "students": [
+    "Isabel Macgregor",
+    "Archi Patel"
+   ],
+   "supervisor": "Rajnish Sharma",
+   "cosupervisor": "",
+   "assessor": "Nicholas Kay",
+   "flags": "",
+   "type": "talk"
+  },
+  {
+   "time": "13:15",
+   "room": "405-460",
+   "stream": "Stream 3: Biomechatronics & Robotics",
+   "streamNum": 3,
+   "chair": "Zhe",
+   "session": "Session 3 (Afternoon)",
+   "title": "A new medical device for correcting posture",
+   "students": [
+    "Daniel Hulm",
+    "Miki Ronconi-Morani"
+   ],
+   "supervisor": "Andrew McDaid",
+   "cosupervisor": "",
+   "assessor": "Jonathan Stringer",
+   "flags": "",
+   "type": "talk"
+  },
+  {
+   "time": "13:15",
+   "room": "405-470",
+   "stream": "Stream 4: Industry 4.0 & Design/Systems Engineering Chen",
+   "streamNum": 4,
+   "chair": "",
+   "session": "Session 3 (Afternoon)",
+   "title": "Advanced Cloud-Based Machining-as-a-Service (MaaS) Framework",
+   "students": [
+    "Nikail Rubanand",
+    "Devon Wilken"
+   ],
+   "supervisor": "Xun Xu",
+   "cosupervisor": "",
+   "assessor": "Jan Polzer",
+   "flags": "",
+   "type": "talk"
+  },
+  {
+   "time": "13:15",
+   "room": "405-422",
+   "stream": "Stream 5: Dynamics and Control & Space Systems",
+   "streamNum": 5,
+   "chair": "mingming",
+   "session": "Session 3 (Afternoon)",
+   "title": "Investigating the usage and impacts of satellite data in New Zealand",
+   "students": [
+    "Samuel Chen",
+    "Lucas Pryce"
+   ],
+   "supervisor": "Priyanka Dhopade",
+   "cosupervisor": "",
+   "assessor": "Mark Jeunnette",
+   "flags": "",
+   "type": "talk"
+  },
+  {
+   "time": "13:15",
+   "room": "405-430",
+   "stream": "Stream 6: Drone technology, Mechatronics",
+   "streamNum": 6,
+   "chair": "Shivam",
+   "session": "Session 3 (Afternoon)",
+   "title": "*Fully-Actuated UAV Control for Canopy Sampling",
+   "students": [
+    "Jimin Ahn",
+    "Tianling Lu"
+   ],
+   "supervisor": "Karl Stol",
+   "cosupervisor": "",
+   "assessor": "Peter Xu",
+   "flags": "*",
+   "type": "talk"
+  },
+  {
+   "time": "13:27",
+   "room": "401-401",
+   "stream": "Stream 1: Mechanics of Materials and Manufacturing Processes",
+   "streamNum": 1,
+   "chair": "Yangyang",
+   "session": "Session 3 (Afternoon)",
+   "title": "Fibre structure preservation in recovery of carbon and glass fibres from end-of-life and scrap fibre reinforced polymer composites",
+   "students": [
+    "Joshua Lewis",
+    "Daniel McNaughton"
+   ],
+   "supervisor": "Arcot Somashekar",
+   "cosupervisor": "",
+   "assessor": "Krishnan Jayaraman",
+   "flags": "",
+   "type": "talk"
+  },
+  {
+   "time": "13:27",
+   "room": "401-439",
+   "stream": "Stream 2: Aero-Fluid-Hydrodynamics and Thermodynamics",
+   "streamNum": 2,
+   "chair": "Epri",
+   "session": "Session 3 (Afternoon)",
+   "title": "Conceptual Design and Prototype Development of a Total Artificial Heart (TAH) System",
+   "students": [
+    "Mikaela Campo",
+    "Sevan Dalzell"
+   ],
+   "supervisor": "Rajnish Sharma",
+   "cosupervisor": "",
+   "assessor": "Andrew McDaid",
+   "flags": "",
+   "type": "talk"
+  },
+  {
+   "time": "13:27",
+   "room": "405-460",
+   "stream": "Stream 3: Biomechatronics & Robotics",
+   "streamNum": 3,
+   "chair": "Zhe",
+   "session": "Session 3 (Afternoon)",
+   "title": "Automated Detection and Geolocation of Caulerpa Using an Embedded Vision System",
+   "students": [
+    "Rhys Chittenden",
+    "Alex Kerr"
+   ],
+   "supervisor": "Henry Williams",
+   "cosupervisor": "",
+   "assessor": "Karl Stol",
+   "flags": "",
+   "type": "talk"
+  },
+  {
+   "time": "13:27",
+   "room": "405-470",
+   "stream": "Stream 4: Industry 4.0 & Design/Systems Engineering Chen",
+   "streamNum": 4,
+   "chair": "",
+   "session": "Session 3 (Afternoon)",
+   "title": "Advanced Decentralised Orchestration for Smart Factories",
+   "students": [
+    "Cameron Gally",
+    "Finn Luxton"
+   ],
+   "supervisor": "Xun Xu",
+   "cosupervisor": "",
+   "assessor": "Jan Polzer",
+   "flags": "",
+   "type": "talk"
+  },
+  {
+   "time": "13:27",
+   "room": "405-422",
+   "stream": "Stream 5: Dynamics and Control & Space Systems",
+   "streamNum": 5,
+   "chair": "mingming",
+   "session": "Session 3 (Afternoon)",
+   "title": "*[CDP-CEE] Understanding the factors preventing the re-balancing of gender representation in the engineering consulting industry/leadership",
+   "students": [
+    "Chris Pen",
+    "Thivina Senevirathna"
+   ],
+   "supervisor": "Priyanka Dhopade",
+   "cosupervisor": "",
+   "assessor": "Mark Jeunnette",
+   "flags": "* [CDP-CEE]",
+   "type": "talk"
+  },
+  {
+   "time": "13:27",
+   "room": "405-430",
+   "stream": "Stream 6: Drone technology, Mechatronics",
+   "streamNum": 6,
+   "chair": "Shivam",
+   "session": "Session 3 (Afternoon)",
+   "title": "Aerial screwdriving for vertical poles",
+   "students": [
+    "Raaghav Batra",
+    "Finlay Hayes"
+   ],
+   "supervisor": "Karl Stol",
+   "cosupervisor": "",
+   "assessor": "Peter Xu",
+   "flags": "",
+   "type": "talk"
+  },
+  {
+   "time": "13:39",
+   "room": "401-401",
+   "stream": "Stream 1: Mechanics of Materials and Manufacturing Processes",
+   "streamNum": 1,
+   "chair": "Yangyang",
+   "session": "Session 3 (Afternoon)",
+   "title": "EFD fabrication of conducting polymer sensor arrays",
+   "students": [
+    "Paul Lahari",
+    "Vin Lai"
+   ],
+   "supervisor": "Peng Du",
+   "cosupervisor": "Peter Xu",
+   "assessor": "Johan Verbeek",
+   "flags": "",
+   "type": "talk"
+  },
+  {
+   "time": "13:39",
+   "room": "401-439",
+   "stream": "Stream 2: Aero-Fluid-Hydrodynamics and Thermodynamics",
+   "streamNum": 2,
+   "chair": "Epri",
+   "session": "Session 3 (Afternoon)",
+   "title": "Development of Aerodynamically Efficient Suspension Arms for a Formula:SAE Car",
+   "students": [
+    "Irina Kishi",
+    "Ben MacSweeney"
+   ],
+   "supervisor": "Tom Allen",
+   "cosupervisor": "",
+   "assessor": "Arcot Somashekar",
+   "flags": "",
+   "type": "talk"
+  },
+  {
+   "time": "13:39",
+   "room": "405-460",
+   "stream": "Stream 3: Biomechatronics & Robotics",
+   "streamNum": 3,
+   "chair": "Zhe",
+   "session": "Session 3 (Afternoon)",
+   "title": "Touch Based Sensors for Dexterous Robotic Manipulation",
+   "students": [
+    "Sarah Keam",
+    "Phyliss Lan"
+   ],
+   "supervisor": "Henry Williams",
+   "cosupervisor": "",
+   "assessor": "Andrew McDaid",
+   "flags": "",
+   "type": "talk"
+  },
+  {
+   "time": "13:39",
+   "room": "405-470",
+   "stream": "Stream 4: Industry 4.0 & Design/Systems Engineering Chen",
+   "streamNum": 4,
+   "chair": "",
+   "session": "Session 3 (Afternoon)",
+   "title": "Digitalised Product Manufacturing Information – a DM Light Approach",
+   "students": [
+    "Jake Hasler",
+    "Daniel Tolosa"
+   ],
+   "supervisor": "Xun Xu",
+   "cosupervisor": "",
+   "assessor": "Jaspreet Dhupia",
+   "flags": "",
+   "type": "talk"
+  },
+  {
+   "time": "13:39",
+   "room": "405-422",
+   "stream": "Stream 5: Dynamics and Control & Space Systems",
+   "streamNum": 5,
+   "chair": "mingming",
+   "session": "Session 3 (Afternoon)",
+   "title": "Mapping and forecasting orbital debris re-entry footprints",
+   "students": [
+    "Thomas Baddeley",
+    "Luke Canovan"
+   ],
+   "supervisor": "Priyanka Dhopade",
+   "cosupervisor": "",
+   "assessor": "Mark Jeunnette",
+   "flags": "",
+   "type": "talk"
+  },
+  {
+   "time": "13:39",
+   "room": "405-430",
+   "stream": "Stream 6: Drone technology, Mechatronics",
+   "streamNum": 6,
+   "chair": "Shivam",
+   "session": "Session 3 (Afternoon)",
+   "title": "Flight Testing Fixed-Wing UAVs in a Wind Tunnel",
+   "students": [
+    "Lachlan Dean",
+    "Stanley Tian"
+   ],
+   "supervisor": "Nicholas Kay",
+   "cosupervisor": "",
+   "assessor": "Karl Stol",
+   "flags": "",
+   "type": "talk"
+  },
+  {
+   "time": "13:51",
+   "room": "401-401",
+   "stream": "Stream 1: Mechanics of Materials and Manufacturing Processes",
+   "streamNum": 1,
+   "chair": "Yangyang",
+   "session": "Session 3 (Afternoon)",
+   "title": "Experimental and numerical investigation of buckling in conical CFRP shells with cutouts for aerospace applications",
+   "students": [
+    "Ella Arnold",
+    "Yi Shun Thong"
+   ],
+   "supervisor": "Tom Allen",
+   "cosupervisor": "",
+   "assessor": "Arcot Somashekar",
+   "flags": "",
+   "type": "talk"
+  },
+  {
+   "time": "13:51",
+   "room": "401-439",
+   "stream": "Stream 2: Aero-Fluid-Hydrodynamics and Thermodynamics",
+   "streamNum": 2,
+   "chair": "Epri",
+   "session": "Session 3 (Afternoon)",
+   "title": "Aerodynamic analysis and optimisation of a state-of-the-art VTOL system",
+   "students": [
+    "Rohan Batley",
+    "Sachith Ranathunga"
+   ],
+   "supervisor": "Michael Kingan",
+   "cosupervisor": "",
+   "assessor": "Rajnish Sharma",
+   "flags": "",
+   "type": "talk"
+  },
+  {
+   "time": "13:51",
+   "room": "405-460",
+   "stream": "Stream 3: Biomechatronics & Robotics",
+   "streamNum": 3,
+   "chair": "Zhe",
+   "session": "Session 3 (Afternoon)",
+   "title": "Development of a Novel, Real time Telerobotic Medical Screening System for Ocular Assessment",
+   "students": [
+    "Tyler Fairbairn",
+    "Andrew Young"
+   ],
+   "supervisor": "Jaspreet Dhupia",
+   "cosupervisor": "",
+   "assessor": "Andrew McDaid",
+   "flags": "",
+   "type": "talk"
+  },
+  {
+   "time": "13:51",
+   "room": "405-470",
+   "stream": "Stream 4: Industry 4.0 & Design/Systems Engineering Chen",
+   "streamNum": 4,
+   "chair": "",
+   "session": "Session 3 (Afternoon)",
+   "title": "Intelligent Shopfloor Knowledge Acquisition through Egocentric Video-based Demonstration Learning",
+   "students": [
+    "Dylan Chand",
+    "Leo Poliko"
+   ],
+   "supervisor": "Jan Polzer",
+   "cosupervisor": "",
+   "assessor": "Xun Xu",
+   "flags": "",
+   "type": "talk"
+  },
+  {
+   "time": "13:51",
+   "room": "405-422",
+   "stream": "Stream 5: Dynamics and Control & Space Systems",
+   "streamNum": 5,
+   "chair": "mingming",
+   "session": "Session 3 (Afternoon)",
+   "title": "Wearable Energy Harvesting",
+   "students": [
+    "Bobbie Atendido",
+    "Phillip Chhour"
+   ],
+   "supervisor": "Lihua Tang",
+   "cosupervisor": "",
+   "assessor": "Vladislav Sorokin",
+   "flags": "",
+   "type": "talk"
+  },
+  {
+   "time": "13:51",
+   "room": "405-430",
+   "stream": "Stream 6: Drone technology, Mechatronics",
+   "streamNum": 6,
+   "chair": "Shivam",
+   "session": "Session 3 (Afternoon)",
+   "title": "Sensor Deployment Drone",
+   "students": [
+    "Jack Bruce",
+    "Chris Dsilva"
+   ],
+   "supervisor": "Karl Stol",
+   "cosupervisor": "",
+   "assessor": "Hazim Namik",
+   "flags": "",
+   "type": "talk"
+  },
+  {
+   "time": "14:03",
+   "room": "401-401",
+   "stream": "Stream 1: Mechanics of Materials and Manufacturing Processes",
+   "streamNum": 1,
+   "chair": "Yangyang",
+   "session": "Session 3 (Afternoon)",
+   "title": "Construction of Sandwich Panels Using Bottle Caps Core and Thermoplastic or Metal skins",
+   "students": [
+    "Ario Brougham",
+    "John Oandasan"
+   ],
+   "supervisor": "Krishnan Jayaraman",
+   "cosupervisor": "",
+   "assessor": "Tom Allen",
+   "flags": "",
+   "type": "talk"
+  },
+  {
+   "time": "14:03",
+   "room": "401-439",
+   "stream": "Stream 2: Aero-Fluid-Hydrodynamics and Thermodynamics",
+   "streamNum": 2,
+   "chair": "Epri",
+   "session": "Session 3 (Afternoon)",
+   "title": "Large Vehicle Wakes and their impact on Passers-by",
+   "students": [
+    "Will Clausen",
+    "Jamie Eskildsen"
+   ],
+   "supervisor": "Nicholas Kay",
+   "cosupervisor": "",
+   "assessor": "Rajnish Sharma",
+   "flags": "",
+   "type": "talk"
+  },
+  {
+   "time": "14:03",
+   "room": "405-460",
+   "stream": "Stream 3: Biomechatronics & Robotics",
+   "streamNum": 3,
+   "chair": "Zhe",
+   "session": "Session 3 (Afternoon)",
+   "title": "Smart Agriculture: Distributed Sensors",
+   "students": [
+    "Blake Gruner",
+    "Alexander Russell"
+   ],
+   "supervisor": "Kean Aw",
+   "cosupervisor": "",
+   "assessor": "Mark Jeunnette",
+   "flags": "",
+   "type": "talk"
+  },
+  {
+   "time": "14:03",
+   "room": "405-470",
+   "stream": "Stream 4: Industry 4.0 & Design/Systems Engineering Chen",
+   "streamNum": 4,
+   "chair": "",
+   "session": "Session 3 (Afternoon)",
+   "title": "WeldWatch: Real-Time Quality Monitoring for Legacy Welding Machines",
+   "students": [
+    "Sujan Galpottage",
+    "Zac Ginever"
+   ],
+   "supervisor": "Jan Polzer",
+   "cosupervisor": "",
+   "assessor": "Xun Xu",
+   "flags": "",
+   "type": "talk"
+  },
+  {
+   "time": "14:03",
+   "room": "405-422",
+   "stream": "Stream 5: Dynamics and Control & Space Systems",
+   "streamNum": 5,
+   "chair": "mingming",
+   "session": "Session 3 (Afternoon)",
+   "title": "Vibration Sensor Powered by Vibrations for Smart Condition Monitoring",
+   "students": [
+    "Stirling Bennett",
+    "Kabir Bhargava"
+   ],
+   "supervisor": "Lihua Tang",
+   "cosupervisor": "",
+   "assessor": "Michael Kingan",
+   "flags": "",
+   "type": "talk"
+  },
+  {
+   "time": "14:03",
+   "room": "405-430",
+   "stream": "Stream 6: Drone technology, Mechatronics",
+   "streamNum": 6,
+   "chair": "Shivam",
+   "session": "Session 3 (Afternoon)",
+   "title": "Autonomous Football Drone",
+   "students": [
+    "Luke Morrow",
+    "Damon Rickman"
+   ],
+   "supervisor": "Karl Stol",
+   "cosupervisor": "",
+   "assessor": "Hazim Namik",
+   "flags": "",
+   "type": "talk"
+  },
+  {
+   "time": "14:15",
+   "room": "401-401",
+   "stream": "Stream 1: Mechanics of Materials and Manufacturing Processes",
+   "streamNum": 1,
+   "chair": "Yangyang",
+   "session": "Session 3 (Afternoon)",
+   "title": "An investigation into hybrid natural–carbon fibre composite systems, examining the trade-off between sustainability and mechanical performance",
+   "students": [
+    "Sam Scott",
+    "Bruno Vaughan"
+   ],
+   "supervisor": "Arcot Somashekar",
+   "cosupervisor": "",
+   "assessor": "Krishnan Jayaraman",
+   "flags": "",
+   "type": "talk"
+  },
+  {
+   "time": "14:15",
+   "room": "401-439",
+   "stream": "Stream 2: Aero-Fluid-Hydrodynamics and Thermodynamics",
+   "streamNum": 2,
+   "chair": "Epri",
+   "session": "Session 3 (Afternoon)",
+   "title": "Turbulent boundary layer unsteady pressure measurement",
+   "students": [
+    "John Villanueva",
+    "Andre Williams"
+   ],
+   "supervisor": "Michael Kingan",
+   "cosupervisor": "",
+   "assessor": "Rajnish Sharma",
+   "flags": "",
+   "type": "talk"
+  },
+  {
+   "time": "14:15",
+   "room": "405-460",
+   "stream": "Stream 3: Biomechatronics & Robotics",
+   "streamNum": 3,
+   "chair": "Zhe",
+   "session": "Session 3 (Afternoon)",
+   "title": "Edge AI for Health Condition Monitoring of Industrial Rotary Assets",
+   "students": [
+    "Taiyi Du"
+   ],
+   "supervisor": "Jaspreet Dhupia",
+   "cosupervisor": "",
+   "assessor": "Kean Aw",
+   "flags": "",
+   "type": "talk"
+  },
+  {
+   "time": "14:15",
+   "room": "405-470",
+   "stream": "Stream 4: Industry 4.0 & Design/Systems Engineering Chen",
+   "streamNum": 4,
+   "chair": "",
+   "session": "Session 3 (Afternoon)",
+   "title": "Digital Manufacturing Light",
+   "students": [
+    "Duy Le",
+    "Dylan Sutton"
+   ],
+   "supervisor": "Jan Polzer",
+   "cosupervisor": "",
+   "assessor": "Xun Xu",
+   "flags": "",
+   "type": "talk"
+  },
+  {
+   "time": "14:15",
+   "room": "405-422",
+   "stream": "Stream 5: Dynamics and Control & Space Systems",
+   "streamNum": 5,
+   "chair": "mingming",
+   "session": "Session 3 (Afternoon)",
+   "title": "Ocean Balance",
+   "students": [
+    "Will Southee",
+    "Brandon Yiu"
+   ],
+   "supervisor": "Vladislav Sorokin",
+   "cosupervisor": "Kean Aw",
+   "assessor": "Daniel De Mel",
+   "flags": "",
+   "type": "talk"
+  },
+  {
+   "time": "14:15",
+   "room": "405-430",
+   "stream": "Stream 6: Drone technology, Mechatronics",
+   "streamNum": 6,
+   "chair": "Shivam",
+   "session": "Session 3 (Afternoon)",
+   "title": "Multi-Agent Reinforcement Learning based Navigation for Autonomous Drones",
+   "students": [
+    "Louie Liu",
+    "Matthew McAuley"
+   ],
+   "supervisor": "Henry Williams",
+   "cosupervisor": "Karl Stol",
+   "assessor": "Hazim Namik",
+   "flags": "",
+   "type": "talk"
+  },
+  {
+   "time": "14:27",
+   "room": "401-401",
+   "stream": "Stream 1: Mechanics of Materials and Manufacturing Processes",
+   "streamNum": 1,
+   "chair": "Yangyang",
+   "session": "Session 3 (Afternoon)",
+   "title": "Potential of Textile Waste as Reinforcements in Composites",
+   "students": [
+    "Emily O'Connor",
+    "Anisha Parbhu"
+   ],
+   "supervisor": "Krishnan Jayaraman",
+   "cosupervisor": "",
+   "assessor": "Tom Allen",
+   "flags": "",
+   "type": "talk"
+  },
+  {
+   "time": "14:27",
+   "room": "401-439",
+   "stream": "Stream 2: Aero-Fluid-Hydrodynamics and Thermodynamics",
+   "streamNum": 2,
+   "chair": "Epri",
+   "session": "Session 3 (Afternoon)",
+   "title": "Wind Sensing from a Fixed-Wing UAV",
+   "students": [
+    "Thomas Enright",
+    "Qiuyang Zheng"
+   ],
+   "supervisor": "Nicholas Kay",
+   "cosupervisor": "",
+   "assessor": "Michael Kingan",
+   "flags": "",
+   "type": "talk"
+  },
+  {
+   "time": "14:27",
+   "room": "405-460",
+   "stream": "Stream 3: Biomechatronics & Robotics",
+   "streamNum": 3,
+   "chair": "Zhe",
+   "session": "Session 3 (Afternoon)",
+   "title": "Patient airway ventilation revisited",
+   "students": [
+    "Isla Burton",
+    "Aiswarya Gayathri Shyju"
+   ],
+   "supervisor": "Andrew McDaid",
+   "cosupervisor": "",
+   "assessor": "Kean Aw",
+   "flags": "",
+   "type": "talk"
+  },
+  {
+   "time": "14:27",
+   "room": "405-470",
+   "stream": "Stream 4: Industry 4.0 & Design/Systems Engineering Chen",
+   "streamNum": 4,
+   "chair": "",
+   "session": "Session 3 (Afternoon)",
+   "title": "AI Powered Mobile Quality Inspection for Manufacturing",
+   "students": [
+    "Mark Chan",
+    "Gabriel Kan"
+   ],
+   "supervisor": "Jan Polzer",
+   "cosupervisor": "",
+   "assessor": "Xun Xu",
+   "flags": "",
+   "type": "talk"
+  },
+  {
+   "time": "14:27",
+   "room": "405-422",
+   "stream": "Stream 5: Dynamics and Control & Space Systems",
+   "streamNum": 5,
+   "chair": "mingming",
+   "session": "Session 3 (Afternoon)",
+   "title": "Harvesting Wave Energy with Gyroscopes for Autonomous Ocean Monitoring",
+   "students": [
+    "Armani Martin",
+    "Dante Martin"
+   ],
+   "supervisor": "Vladislav Sorokin",
+   "cosupervisor": "",
+   "assessor": "Daniel De Mel",
+   "flags": "",
+   "type": "talk"
+  },
+  {
+   "time": "14:27",
+   "room": "405-430",
+   "stream": "Stream 6: Drone technology, Mechatronics",
+   "streamNum": 6,
+   "chair": "Shivam",
+   "session": "Session 3 (Afternoon)",
+   "title": "Developing a Virtual Testing Environment for Mobile Robot Testing",
+   "students": [
+    "Cameron Adams",
+    "Jonathan Zhao"
+   ],
+   "supervisor": "Hazim Namik",
+   "cosupervisor": "",
+   "assessor": "Karl Stol",
+   "flags": "",
+   "type": "talk"
+  },
+  {
+   "time": "14:39",
+   "room": "401-401",
+   "stream": "Stream 1: Mechanics of Materials and Manufacturing Processes",
+   "streamNum": 1,
+   "chair": "Yangyang",
+   "session": "Session 3 (Afternoon)",
+   "title": "An investigation into the performance of flexible composite hydrofoil structures using hybrid natural–carbon fibre laminates",
+   "students": [
+    "Eli Lesoa",
+    "Xavier Metivier"
+   ],
+   "supervisor": "Arcot Somashekar",
+   "cosupervisor": "",
+   "assessor": "Krishnan Jayaraman",
+   "flags": "",
+   "type": "talk"
+  },
+  {
+   "time": "14:39",
+   "room": "401-439",
+   "stream": "Stream 2: Aero-Fluid-Hydrodynamics and Thermodynamics",
+   "streamNum": 2,
+   "chair": "Epri",
+   "session": "Session 3 (Afternoon)",
+   "title": "Development and Analysis of a Rowing Foot Stretcher Force Measurement System",
+   "students": [
+    "Hannah Rye",
+    "Isla Westlake"
+   ],
+   "supervisor": "Michael Kingan",
+   "cosupervisor": "",
+   "assessor": "Nicholas Kay",
+   "flags": "",
+   "type": "talk"
+  },
+  {
+   "time": "14:39",
+   "room": "405-460",
+   "stream": "Stream 3: Biomechatronics & Robotics",
+   "streamNum": 3,
+   "chair": "Zhe",
+   "session": "Session 3 (Afternoon)",
+   "title": "In-Situ Moisture Sensing of Timber Structure",
+   "students": [
+    "Hunter Pirret"
+   ],
+   "supervisor": "Kean Aw",
+   "cosupervisor": "",
+   "assessor": "Peter Xu",
+   "flags": "",
+   "type": "talk"
+  },
+  {
+   "time": "14:39",
+   "room": "405-470",
+   "stream": "Stream 4: Industry 4.0 & Design/Systems Engineering Chen",
+   "streamNum": 4,
+   "chair": "",
+   "session": "Session 3 (Afternoon)",
+   "title": "Automated Manufacturing Cell Design for Industrial Process Enhancement",
+   "students": [
+    "Johnson Du",
+    "Dylan Parkin"
+   ],
+   "supervisor": "Jaspreet Dhupia",
+   "cosupervisor": "Xun Xu",
+   "assessor": "Jan Polzer",
+   "flags": "",
+   "type": "talk"
+  },
+  {
+   "time": "14:39",
+   "room": "405-422",
+   "stream": "Stream 5: Dynamics and Control & Space Systems",
+   "streamNum": 5,
+   "chair": "mingming",
+   "session": "Session 3 (Afternoon)",
+   "title": "Managing Siltation and Harnessing Tidal Energy at the Sandspit Marina",
+   "students": [
+    "Sophia Webb",
+    "Philip Wu"
+   ],
+   "supervisor": "Vladislav Sorokin",
+   "cosupervisor": "",
+   "assessor": "Daniel De Mel",
+   "flags": "",
+   "type": "talk"
+  },
+  {
+   "time": "14:39",
+   "room": "405-430",
+   "stream": "Stream 6: Drone technology, Mechatronics",
+   "streamNum": 6,
+   "chair": "Shivam",
+   "session": "Session 3 (Afternoon)",
+   "title": "Reinforcement Learning Methods for Mobile Robot Position Control",
+   "students": [
+    "Kimberley Lam",
+    "Crista Sanvictores"
+   ],
+   "supervisor": "Hazim Namik",
+   "cosupervisor": "",
+   "assessor": "Yuqian Lu",
+   "flags": "",
+   "type": "talk"
+  }
+ ],
+ "info": {
+  "department": "Department of Mechanical and Mechatronics Engineering",
+  "faculty": "Faculty of Engineering and Design",
+  "event": "Part IV Research Project Conference 2026",
+  "date": "Saturday, 1 August 2026",
+  "time": "8:15 AM – 3:30 PM",
+  "venue": "Level 4, Engineering Building, 5 Grafton Road",
+  "parking": "18 Grafton Road, Owen G Glen Building"
+ }
+}
